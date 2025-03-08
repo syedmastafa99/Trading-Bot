@@ -27,3 +27,4 @@ schedule==1.2.0
 # Web dashboard (optional)
 streamlit==1.25.0
 plotly==5.16.0
+gunicorn
